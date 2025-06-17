@@ -1,0 +1,9 @@
+gradio 
+torch 
+torchvision 
+ultralytics 
+opencv-python 
+pillow 
+matplotlib 
+seaborn 
+pandas
